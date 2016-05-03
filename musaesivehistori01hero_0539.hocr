@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musaesivehistori01hero_0539.png"; bbox 0 0 1732 2951; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 1003 1376 1069">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 1003 1376 1069">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 1003 1376 1069; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 101 1004 685 1069; x_wconf 84' lang='lat' dir='ltr'><strong>HERODOTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 733 1003 1376 1069; x_wconf 86' lang='lat' dir='ltr'><strong>HISTORIAR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 544 1162 926 1210">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 544 1162 926 1210">
+     <span class='ocr_line' id='line_1_2' title="bbox 544 1162 926 1210; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 544 1162 604 1210; x_wconf 91' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 641 1164 682 1210; x_wconf 89' lang='grc' dir='ltr'><strong>Ι.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 761 1163 813 1210; x_wconf 90' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 850 1165 926 1210; x_wconf 93' lang='lat' dir='ltr'><strong>II.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 209 1361 1270 1420">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 209 1361 1270 1420">
+     <span class='ocr_line' id='line_1_3' title="bbox 209 1361 1270 1420; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 209 1362 700 1419; x_wconf 89' lang='lat' dir='ltr'>VARIETAS</span> <span class='ocrx_word' id='word_1_8' title='bbox 756 1361 1270 1420; x_wconf 88' lang='lat' dir='ltr'>LECTIONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 442 1520 1033 1570">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 442 1520 1033 1570">
+     <span class='ocr_line' id='line_1_4' title="bbox 442 1520 1033 1570; baseline 0.002 -3"><span class='ocrx_word' id='word_1_9' title='bbox 442 1520 527 1568; x_wconf 90' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 562 1521 711 1569; x_wconf 87' lang='lat' dir='ltr'><strong>LIB.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 748 1523 788 1568; x_wconf 93' lang='grc' dir='ltr'><strong>Ῑ.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 823 1521 924 1568; x_wconf 92' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 956 1523 1033 1570; x_wconf 93' lang='lat' dir='ltr'><strong>II.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
